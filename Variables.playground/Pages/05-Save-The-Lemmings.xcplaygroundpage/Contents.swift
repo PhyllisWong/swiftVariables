@@ -19,7 +19,7 @@ var signText: String = "This is not a sign."
  - callout(Try it out!): Try updating the `signText` variable so that the sign shows your name. Remember to use double quotes (`"`) around your new _String_!
 
 */
-
+signText = "makeSchool"
 
 
 /*:
@@ -36,7 +36,7 @@ var signText: String = "This is not a sign."
 
 */
 
-
+signText = "24"
 
 /*:
 
@@ -55,7 +55,7 @@ var signText: String = "This is not a sign."
  - callout(Challenge): With what you know now, make the sign say "Danger" and watch the lemmings survive!
 
 */
-
+signText = "DANGER!"
 
 
 /*:
@@ -86,7 +86,7 @@ var signText: String = "This is not a sign."
 
 */
 
-
+signText = "\"DANGER\" zone"
 
 /*:
 

@@ -9,8 +9,9 @@
  Start off by changing `0` to `10`. You might not see any changes until you get to higher values. Keep trying until you get it just right.
 
 */
+// change let to var
+var force: Int = 100
 
-let force: Int = 0
 
 /*:
 

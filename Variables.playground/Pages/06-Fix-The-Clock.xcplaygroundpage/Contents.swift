@@ -55,7 +55,12 @@ let doubleDivisionExample: Double = 15 / 4
 
 */
 
-secondRotation = 0
+secondRotation = 115
+minuteRotation = 0
+hourRotation = 0
+
+
+
 
 /*:
 
@@ -78,6 +83,7 @@ secondRotation = 0
  - callout(Try it out): Set `hourRotation` using this equation and check if it looks right!
 
 */
+hourRotation = hours / 12 * 360
 
 
 
@@ -94,6 +100,8 @@ secondRotation = 0
  - callout(Challenge): Time to get that clock working!
 
 */
+minuteRotation = minutes / 60 * 360
+secondRotation = seconds / 60 * 360
 
 
 
